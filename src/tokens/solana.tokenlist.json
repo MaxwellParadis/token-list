@@ -15767,6 +15767,21 @@
         "medium": "https://medium.com/@SolBulls"
       }
     },
+     {
+      "chainId": 101,
+      "address": "4xAPLtoJn7J7ALhLh7jz4unZRRDjCogNbnkJ2xhkYedo",
+      "symbol": "ROFL",
+      "name": "ROFLSTOMP",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MaxwellParadis/digitalcontent/main/teamROFLtwitter.jpg",
+      "tags": [
+        "team-token",
+        "roflstompers"
+      ],
+       "extensions":
+        "twitter": "https://twitter.com/MW_ROFLSTOMPERS"
+       }
+    },
     {
       "chainId": 101,
       "address": "BDNA4xTPk6iVe2iuQe8931quH55XsZo3R97VwsgfUgK5",
