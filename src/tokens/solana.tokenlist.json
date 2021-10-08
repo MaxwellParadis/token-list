@@ -12457,6 +12457,18 @@
     },
     {
       "chainId": 101,
+      "address": "4xAPLtoJn7J7ALhLh7jz4unZRRDjCogNbnkJ2xhkYedo",
+      "symbol": "ROFL",
+      "name": "ROFLSTOMP",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MaxwellParadis/digitalcontent/main/teamROFLtwitter.jpg",
+      "tags": [
+        "team-token",
+        "roflstompers"
+      ],
+    },
+    {
+      "chainId": 101,
       "address": "5ToouaoWhGCiaicANcewnaNKJssdZTxPATDhqJXARiJG",
       "symbol": "NUR",
       "name": "Nur Coin",
