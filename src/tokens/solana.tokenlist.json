@@ -16404,5 +16404,21 @@
     "major": 0,
     "minor": 3,
     "patch": 2
-  }
+  },
+    {
+      "chainId": 101,
+      "address": "4xAPLtoJn7J7ALhLh7jz4unZRRDjCogNbnkJ2xhkYedo",
+      "symbol": "ROFL",
+      "name": "ROFLSTOMP",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/MaxwellParadis/digitalcontent/main/teamROFLtwitter.jpg",
+      "tags": [
+        "team-token",
+        "roflstompers"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/MW_ROFLSTOMPERS"
+      }
+    }
+  
 }
